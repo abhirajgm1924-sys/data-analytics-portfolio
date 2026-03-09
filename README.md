@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data-Analytics-portfolio
 This repository contains my data analysis projects using:
 
 - SQL
